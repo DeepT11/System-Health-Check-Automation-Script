@@ -1,0 +1,1 @@
+Developed a Python script to perform pre-market system checks by monitoring server uptime, CPU/memory/disk usage, and trading API connectivity. The script generates daily health reports and raises alerts via email/Slack if thresholds are breached, reducing manual checks and ensuring system readiness before market open
